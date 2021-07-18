@@ -1,0 +1,21 @@
+.app-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  height: 125px;
+  width: 125px;
+  border-radius: 10px;
+  row-gap: 10px;
+  cursor: pointer;
+}
+
+.app-icon {
+  width: 50px;
+}
+
+.app-name {
+  font-weight: 600;
+  color: #555555;
+}

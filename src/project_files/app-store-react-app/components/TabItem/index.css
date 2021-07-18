@@ -1,0 +1,19 @@
+.tab-btn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 5px;
+  border-bottom: 3px solid transparent;
+  color: #555555;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.tab-btn:hover {
+  border-bottom: 3px solid #555555;
+}
+
+.selected-tab {
+  border-color: blue;
+  color: blue;
+}
